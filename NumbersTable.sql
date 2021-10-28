@@ -3,6 +3,8 @@
 	Solution:	The provided solution can be used to generate a numbers table in memory, or can be used
 				to feed a table on disk with generated numbers, or can be used as the core of a 
 				table valued function.
+	Reference:	Microsoft SQL Server 2021 High-Performance T-SQL Using Window Functions by Itzik Ben Gan
+				Chapter 5, Page 133 - 136
 */
 
 Declare 
